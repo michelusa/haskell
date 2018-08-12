@@ -1,0 +1,3 @@
+sudo apt-get install haskell-platform
+ghc hello.hs
+./hello
